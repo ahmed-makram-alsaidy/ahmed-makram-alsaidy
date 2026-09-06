@@ -19,7 +19,7 @@ I build AI systems that do real operational work: read-only agents with strict t
 ## The differentiator
 
 - **B.Sc. in Microbiology & Chemistry — Faculty of Science, Damanhour University** (Overall Grade: Very Good). Science trained me to test claims against evidence — which is exactly how I approach model evaluation and system reliability.
-- **Published author** — *Cyanoremediation of Water Pollutants: Mechanisms, Applications, and Future Perspectives* (2024, Damanhour Journal of Pure and Applied Sciences).
+- **Published author** — *Cyanoremediation of Water Pollutants: Mechanisms, Applications, and Future Perspectives
 - **Client-facing creative direction since 2016** — I turn ambiguous business problems into working systems and can own the conversation with both engineers and stakeholders.
 
 ## Stack
