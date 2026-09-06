@@ -1,62 +1,34 @@
-# Hi there, I'm Ahmed Makram Alsaidy! 👋
-### 🧬 Microbiologist | 💻 Full Stack Developer | 🎨 Graphic Designer
+# Ahmed Makram Alsaidy
 
-I am a passionate developer bridging the gap between **Science** and **Technology**. Currently studying Microbiology at Damanhour University and building innovative tech solutions for logistics and student communities.
+**Applied AI / AI Systems Engineer** — agents, LLM systems & automation backends.
 
----
-
-### 🚀 About Me
-- 🔭 I’m currently working as a **Shipping Operation Specialist** at *Aliens Express* and **Front-End Developer** at *GDSC Kafr El Sheikh*.
-- 🌱 I’m currently learning **Advanced Backend Patterns** and **System Design**.
-- 👯 I’m looking to collaborate on **EdTech** and **BioTech** open source projects.
-- 🎙️ I’m also a **Voice Over Artist** & Podcaster.
-- ⚡ Fun fact: I can debug code and analyze bacteria cultures in the same day!
+I build AI systems that do real operational work: read-only agents with strict tool boundaries, multi-provider model orchestration with routing and fallback, and automation servers for logistics operations. Every project below carries an honest status — I don't label anything production unless it runs in production.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Featured engineering work
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| [**lifi-ops-ai-agent**](https://github.com/ahmed-makram-alsaidy/lifi-ops-ai-agent) | Read-only TypeScript agent for LI.FI cross-chain ops research — strict JSON tool schemas, BigInt-safe quote handling, sanitized outputs | TypeScript · OpenAI Responses API · Docker · GitHub Actions CI | Open Source |
+| [**temm**](https://github.com/ahmed-makram-alsaidy/temm) | Project-first AI production & completion runtime: agent registry, process lifecycle, ConPTY, evidence-based verification | Python · Node.js · SQLite | In Development |
+| [**wasla-whatsapp-server**](https://github.com/ahmed-makram-alsaidy/wasla-whatsapp-server) | WhatsApp groups automation server for Wasla Express shipping operations — sessions, rate limiting, WebSockets, Docker/Railway config | Node.js · Express · Supabase | Client system |
+| [**recheck-backend**](https://github.com/ahmed-makram-alsaidy/recheck-backend) · [**recheck-Frontend**](https://github.com/ahmed-makram-alsaidy/recheck-Frontend) | Shipment-inspection system: FastAPI + Pydantic + SQLAlchemy + OAuth2/JWT, React frontend | Python · FastAPI · React | In Development |
+| [**fungi.ai**](https://github.com/ahmed-makram-alsaidy/fungi.ai) · [**fungal_classifier**](https://github.com/ahmed-makram-alsaidy/fungal_classifier) | Fungal image classification — where my microbiology background meets ML | Python · Flask · TensorFlow/Keras | Research prototype |
 
-**Frameworks & Libraries:**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## The differentiator
 
-**Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- **B.Sc. in Microbiology & Chemistry — Faculty of Science, Damanhour University** (Overall Grade: Very Good). Science trained me to test claims against evidence — which is exactly how I approach model evaluation and system reliability.
+- **Published author** — *Cyanoremediation of Water Pollutants: Mechanisms, Applications, and Future Perspectives* (2024, Damanhour Journal of Pure and Applied Sciences).
+- **Client-facing creative direction since 2016** — I turn ambiguous business problems into working systems and can own the conversation with both engineers and stakeholders.
 
-**Design:**
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
+## Stack
 
----
+`Python` · `FastAPI` · `TypeScript` · `Node.js` · `React/Next.js` · `PostgreSQL` · `Supabase` · `SQLite` · `Docker` · `GitHub Actions` · LLM APIs with function calling & structured outputs
 
-### 🏆 Key Projects
+## Find me
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **📦 Integrated Shipment Tracking** | A comprehensive web app for tracking shipments & logistics management. | `Django` `PostgreSQL` |
-| **🧪 Microbiology Dept. Portal** | Academic platform for sharing material & resources for science students. | `Node.js` `MongoDB` |
-| **🛒 Grocery Store Manager** | Inventory and sales management system focused on performance. | `Python` `SQL` |
-| **🚚 Courier Returns System** | Specialized system for managing reverse logistics efficiently. | `Full Stack` |
-
----
-
-### 🎙️ My Voice Over Work
-Check out my latest episodes on **"Secrets of the Universe and Faith"** & **"Effective Time Management"**.
-
----
-
-<div align="center">
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-makram)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ahmed.alsaidy@gmail.com)
-
-</div>
+- **AI engineering portfolio:** [ahmed-alsaidy.online/ai-labs](https://www.ahmed-alsaidy.online/ai-labs/)
+- **Résumé:** [ahmed-alsaidy.online/resume](https://www.ahmed-alsaidy.online/resume/)
+- **Creative direction studio:** [ahmed-alsaidy.online](https://www.ahmed-alsaidy.online/)
+- **Email:** hello@ahmed-alsaidy.online
